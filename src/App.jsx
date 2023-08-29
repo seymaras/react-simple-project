@@ -19,6 +19,7 @@ function Input() {
         Simple <strong>Input</strong> <i>Alert</i>
       </p>
       <input
+        class="custom-input"
         type="text"
         value={inputYazi}
         onChange={inputYaziYenileme}
