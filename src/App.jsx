@@ -10,7 +10,7 @@ function Input() {
   };
 
   const handleButtonClick = () => {
-    alert(inputYazi);
+    alert("Mesaj: " + inputYazi);
   };
 
   return (
